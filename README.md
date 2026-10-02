@@ -2,21 +2,21 @@
 
 Budget versions of DAZ's parts lists for his **V2 steering wheel**, **V2 shifter** and **load-cell pedal set**, re-priced for Australia. Each list comes in under AUD 200 on its own.
 
-| Build | Budget list | With removed parts added back | File |
+| Build | Budget list | With optional extras | File |
 |---|---:|---:|---|
-| V2 steering wheel (force feedback) | **≈ AUD 196** | ≈ AUD 254 | [`parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx) |
+| V2 steering wheel (force feedback) | **≈ AUD 189** | ≈ AUD 224 with wheel buttons & paddles | [`parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx) |
 | V2 shifter (H-pattern + sequential) | **≈ AUD 70** | – | [`parts-lists/DAZ_projects_shifter_V2_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_projects_shifter_V2_budget_parts_list_AUD.xlsx) |
-| Pedal set (throttle, load-cell brake, clutch) | **≈ AUD 102** | ≈ AUD 103 | [`parts-lists/DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx`](parts-lists/DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx) |
-| All three | ≈ AUD 367 | | |
+| Pedal set (throttle, load-cell brake, clutch) | **≈ AUD 102** | ≈ AUD 103 with cable end caps | [`parts-lists/DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx`](parts-lists/DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx) |
+| All three | ≈ AUD 360 | | |
 
-The totals include nuts and bolts and the few parts DAZ's lists leave out. They don't include filament, wire or USB cables; each sheet lists those separately with prices. Building all three costs a bit less than the sum, because several screw sizes and the nails repeat across the lists.
+The totals include nuts and bolts and the few parts DAZ's lists leave out. They don't include filament, wire or USB cables; each sheet lists those separately with prices. Buying for all three at once saves roughly another AUD 13, because the nails, the M8 rod and several screw packs repeat across the lists.
 
 ## What changed
 
 **Steering wheel** (the expensive one):
-- Hoverboard motor: buy a second-hand or broken hoverboard on Gumtree or Facebook Marketplace instead of a new motor.
-- Removed the Arca-Swiss quick release. It only lets you slide the base off the desk without tools, and DAZ notes it is pricey.
-- Removed the wireless button board, push buttons, paddle magnets and switches, and battery holder (≈ AUD 35 as a later upgrade). The H-shifter already covers gear changes.
+- Hoverboard motor: already owned, so AUD 0.
+- Kept the Arca-Swiss quick release (DAZ's cheaper option). It's how the V2 base attaches to the desk, so the build goes together as designed.
+- Moved the wireless button board, push buttons, paddle magnets and switches, and battery holder to an optional upgrade (≈ AUD 35). The H-shifter already covers gear changes.
 - Cheapest variants of the rim (PVC), encoder, power supply and XT60.
 - Added encoder pull-up resistors. FFBeast's docs require them for NPN encoders like the E6B2.
 
