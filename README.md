@@ -1,37 +1,26 @@
 # DAZ sim-racing builds – budget parts lists (AUD)
 
-Budget versions of DAZ's parts lists for his **V2 steering wheel**, **V2 shifter** and **load-cell pedal set**, re-priced for Australia. Each list comes in under AUD 200 on its own.
+Parts lists for DAZ's **V2 steering wheel**, **V2 shifter** and **load-cell pedal set**, re-priced for Australia and cut down to what each build actually needs.
 
-| Build | Budget list | With optional extras | File |
-|---|---:|---:|---|
-| V2 steering wheel (force feedback) | **≈ AUD 189** | ≈ AUD 224 with wheel buttons & paddles | [`parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx) |
-| V2 shifter (H-pattern + sequential) | **≈ AUD 70** | – | [`parts-lists/DAZ_projects_shifter_V2_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_projects_shifter_V2_budget_parts_list_AUD.xlsx) |
-| Pedal set (throttle, load-cell brake, clutch) | **≈ AUD 102** | ≈ AUD 103 with cable end caps | [`parts-lists/DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx`](parts-lists/DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx) |
-| All three | ≈ AUD 360 | | |
+| File | What it is | Total |
+|---|---|---:|
+| [`DAZ_all_three_best_value_parts_list_AUD.xlsx`](parts-lists/DAZ_all_three_best_value_parts_list_AUD.xlsx) | **Start here.** All three builds in one order: shared screws bought once, free parts scrounged, nothing that makes the build worse. | **≈ AUD 326** |
+| [`DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx) | Steering wheel on its own | ≈ AUD 189 |
+| [`DAZ_projects_shifter_V2_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_projects_shifter_V2_budget_parts_list_AUD.xlsx) | Shifter on its own | ≈ AUD 66 |
+| [`DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx`](parts-lists/DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx) | Pedal set on its own | ≈ AUD 86 |
 
-The totals include nuts and bolts and the few parts DAZ's lists leave out. They don't include filament, wire or USB cables; each sheet lists those separately with prices. Buying for all three at once saves roughly another AUD 13, because the nails, the M8 rod and several screw packs repeat across the lists.
+Section 7 of the combined list lists cheaper options that make the build worse or take more work, such as a 3D-printed rim, a hall-sensor brake or a laptop charger for power. Taking all of them brings the total to about AUD 194. Even then, AUD 100 for all three isn't reachable with DAZ's designs: the wheel's controller, encoder and rim alone cost about that much.
 
-## What changed
+The totals don't include filament, since printing is budgeted separately. Parts you can usually get for free (skateboard bearings, bike brake cables, wire, USB cables) are listed with what they'd cost if you have to buy them.
 
-**Steering wheel** (the expensive one):
-- Hoverboard motor: already owned, so AUD 0.
-- Kept the Arca-Swiss quick release (DAZ's cheaper option). It's how the V2 base attaches to the desk, so the build goes together as designed.
-- Moved the wireless button board, push buttons, paddle magnets and switches, and battery holder to an optional upgrade (≈ AUD 35). The H-shifter already covers gear changes.
-- Cheapest variants of the rim (PVC), encoder, power supply and XT60.
-- Added encoder pull-up resistors. FFBeast's docs require them for NPN encoders like the E6B2.
+## Links and availability
 
-**Shifter:**
-- Chrome-steel MR126ZZ bearings instead of stainless.
-- Single screw sizes instead of assortment sets.
-- Tips: free 608 bearings from an old skateboard, and one Bunnings M8 rod covers the shifter and the pedals.
-
-**Pedals:**
-- Dropped the cable end caps, which DAZ calls "not necessary".
-- Added the plywood base his bolt lengths assume.
-- Kept the clutch for the H-shifter.
+- **Main link:** DAZ's own listing where his printed parts need that exact part (controller, encoder, rim, quick release, load cell, ball joints, springs). For standard parts (screws, bearings, belts, Arduinos, sensors) it's an AliExpress search across every seller, so you can pick the cheapest.
+- **Backup link:** the other one, so you can still buy a part if a listing sells out.
+- **Listing check:** on 3 Oct 2026 every DAZ link was checked to confirm it still leads to a product page. Search links always show sellers that have stock. Stock and shipping to Australia show at checkout.
 
 ## How the sheets work
 
 - Edit the blue cells (quantity, price) and the yellow budget cell. Totals and the UNDER/OVER BUDGET flag update automatically.
-- Prices are estimates in AUD **including 10% GST**, checked 2 Oct 2026, using 1 USD = 1.4425 AUD and 1 EUR = 1.6249 AUD (ExchangeRate-API). The *Price basis* column says where each number came from. AliExpress prices change daily.
-- "AliExpress – DAZ's link" entries are DAZ's own affiliate links, so buying through them still supports him.
+- Prices are estimates in AUD **including 10% GST**, using 1 USD = 1.4425 AUD and 1 EUR = 1.6249 AUD (ExchangeRate-API, 2 Oct 2026). The *Price basis* column says where each number came from.
+- "AliExpress – DAZ's link" entries are DAZ's affiliate links, so buying through them supports him.
