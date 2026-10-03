@@ -4,13 +4,13 @@ Parts lists for DAZ's **V2 steering wheel**, **V2 shifter** and **load-cell peda
 
 | File | What it is | Total |
 |---|---|---:|
-| [`DAZ_all_three_best_value_parts_list_AUD.xlsx`](parts-lists/DAZ_all_three_best_value_parts_list_AUD.xlsx) | **Start here.** All three builds in one order: shared screws bought once, free parts scrounged, nothing that makes the build worse. | **≈ AUD 328** |
-| [`DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx) | Steering wheel on its own | ≈ AUD 191 |
+| [`DAZ_all_three_best_value_parts_list_AUD.xlsx`](parts-lists/DAZ_all_three_best_value_parts_list_AUD.xlsx) | **Start here.** All three builds in one order: shared screws bought once, free parts scrounged, nothing that makes the build worse. | **≈ AUD 330** |
+| [`DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_racing_V2_steering_wheel_budget_parts_list_AUD.xlsx) | Steering wheel on its own | ≈ AUD 193 |
 | [`DAZ_projects_shifter_V2_budget_parts_list_AUD.xlsx`](parts-lists/DAZ_projects_shifter_V2_budget_parts_list_AUD.xlsx) | Shifter on its own | ≈ AUD 66 |
 | [`DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx`](parts-lists/DAZ-racing_pedal_set_budget_parts_list_AUD.xlsx) | Pedal set on its own | ≈ AUD 86 |
-| [`DAZ_wheel_AliExpress_cart_list_AUD.xlsx`](parts-lists/DAZ_wheel_AliExpress_cart_list_AUD.xlsx) | **Wheel shopping cart.** One line per cart item: the exact listing, the option to pick and a target price. Type what your cart charges into the yellow cells to see which lines push the total up. | target ≈ AUD 191 |
+| [`DAZ_wheel_AliExpress_cart_list_AUD.xlsx`](parts-lists/DAZ_wheel_AliExpress_cart_list_AUD.xlsx) | **Wheel shopping cart.** One line per cart item: the exact listing, the option to pick and a target price. Type what your cart charges into the yellow cells to see which lines push the total up. | target ≈ AUD 193 |
 
-Section 7 of the combined list lists cheaper options that make the build worse or take more work, such as a 3D-printed rim, a hall-sensor brake or a laptop charger for power. Taking all of them brings the total to about AUD 196. Even then, AUD 100 for all three isn't reachable with DAZ's designs: the wheel's controller, encoder and rim alone cost about that much.
+Section 7 of the combined list lists cheaper options that make the build worse or take more work, such as a 3D-printed rim, a hall-sensor brake or a laptop charger for power. Taking all of them brings the total to about AUD 198. Even then, AUD 100 for all three isn't reachable with DAZ's designs: the wheel's controller, encoder and rim alone cost about that much.
 
 The totals don't include filament, since printing is budgeted separately. Parts you can usually get for free (skateboard bearings, bike brake cables, wire, USB cables) are listed with what they'd cost if you have to buy them.
 
